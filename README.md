@@ -1,4 +1,4 @@
-﻿#opencv-motion-detection
+﻿#opencv-motion-detection WORK IN PROGRESS
 
 This module is meant to be a building block for other applications. By creating a standard tool for tracking and reporting movement from a video source, this can be used in various other applications without having to rewrite the code. 
 
